@@ -1,0 +1,15 @@
+C:\Users\Asus\Lab4_ISRPO_KonovalovaAlisa\server\bin\Debug\net10.0\server.exe
+C:\Users\Asus\Lab4_ISRPO_KonovalovaAlisa\server\bin\Debug\net10.0\server.deps.json
+C:\Users\Asus\Lab4_ISRPO_KonovalovaAlisa\server\bin\Debug\net10.0\server.runtimeconfig.json
+C:\Users\Asus\Lab4_ISRPO_KonovalovaAlisa\server\bin\Debug\net10.0\server.dll
+C:\Users\Asus\Lab4_ISRPO_KonovalovaAlisa\server\bin\Debug\net10.0\server.pdb
+C:\Users\Asus\Lab4_ISRPO_KonovalovaAlisa\server\obj\Debug\net10.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Lab4_ISRPO_KonovalovaAlisa\server\obj\Debug\net10.0\server.AssemblyInfoInputs.cache
+C:\Users\Asus\Lab4_ISRPO_KonovalovaAlisa\server\obj\Debug\net10.0\server.AssemblyInfo.cs
+C:\Users\Asus\Lab4_ISRPO_KonovalovaAlisa\server\obj\Debug\net10.0\server.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Lab4_ISRPO_KonovalovaAlisa\server\obj\Debug\net10.0\server.sourcelink.json
+C:\Users\Asus\Lab4_ISRPO_KonovalovaAlisa\server\obj\Debug\net10.0\server.dll
+C:\Users\Asus\Lab4_ISRPO_KonovalovaAlisa\server\obj\Debug\net10.0\refint\server.dll
+C:\Users\Asus\Lab4_ISRPO_KonovalovaAlisa\server\obj\Debug\net10.0\server.pdb
+C:\Users\Asus\Lab4_ISRPO_KonovalovaAlisa\server\obj\Debug\net10.0\server.genruntimeconfig.cache
+C:\Users\Asus\Lab4_ISRPO_KonovalovaAlisa\server\obj\Debug\net10.0\ref\server.dll

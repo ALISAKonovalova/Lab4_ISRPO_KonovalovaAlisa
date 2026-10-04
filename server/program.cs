@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 namespace Server
 {
@@ -6,13 +6,12 @@ namespace Server
     {
         static void Main(string[] args)
         {
-            // Приветствие
+
             Console.WriteLine("Привет!");
             Console.WriteLine("ФИО: Коновалова Алиса Александровна");
             Console.WriteLine("Группа: ИСП-242");
             Console.WriteLine($"Дата и время: {DateTime.Now}");
 
-            // Меню
             while (true)
             {
                 Console.WriteLine("\nМеню:");
@@ -24,7 +23,6 @@ namespace Server
 
                 string choice = Console.ReadLine();
 
-                // Обработка выбора
                 switch (choice)
                 {
                     case "1":
